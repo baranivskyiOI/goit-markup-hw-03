@@ -206,7 +206,7 @@ img{
 
 .ourteam {
     background-color: #f4f4fd;
-    padding-bottom: 120px;
+    padding: 120px 0
 }
 
 .ourteam-title {
@@ -216,7 +216,7 @@ img{
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-    padding: 120px 0 72px ;
+    margin-bottom: 72px ;
 }
 
 .ourteam-list {
