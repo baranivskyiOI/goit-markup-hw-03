@@ -305,13 +305,10 @@ ol {
 
 .footer {
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 
 .logo {}
-
-.footer-container{
-    padding: 100px 0;
-}
 
 .footer-logo{
     display: block;
